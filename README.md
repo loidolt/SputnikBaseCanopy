@@ -1,4 +1,4 @@
-# SputnikBaseCanopy
+# Sputnik BASE Canopy
 BASE Jumping Canopy
 
 These files are for a BASE jumping canopy, originally designed by Chris Loidolt and Nick Burden.
